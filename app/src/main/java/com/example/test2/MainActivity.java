@@ -1,4 +1,4 @@
-package com.example.test2;
+package com.example.test2; //fahad 200202
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -11,4 +11,4 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-}
+} //this is test 2
